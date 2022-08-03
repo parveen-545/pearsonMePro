@@ -1,0 +1,32 @@
+{
+    "sidenav": [{
+            "pageUrl": "/",
+            "icon": "icon-grid.png",
+            "text": "Dashboard",
+            "para": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, placeat. Repellat laudantium eligendi ab consequatur animi quidem minus aperiam, eum reiciendis.",
+            "alt": "about banner"
+
+        },
+        {
+            "pageUrl": "/reports",
+            "icon": "icon-manage.png",
+            "text": "Reports",
+            "para": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, placeat. Repellat laudantium eligendi ab consequatur animi quidem minus aperiam, eum reiciendis.",
+            "alt": "about banner"
+        },
+        {
+            "pageUrl": "/ecommerce",
+            "icon": "icon-cart.png",
+            "text": "E-Commerce",
+            "para": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, placeat. Repellat laudantium eligendi ab consequatur animi quidem minus aperiam, eum reiciendis.",
+            "alt": "about banner"
+        },
+        {
+            "pageUrl": "/settings",
+            "icon": "icon-settings.png",
+            "text": "Settings",
+            "para": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, placeat. Repellat laudantium eligendi ab consequatur animi quidem minus aperiam, eum reiciendis.",
+            "alt": "about banner"
+        }
+    ]
+}
